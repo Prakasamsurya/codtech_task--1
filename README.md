@@ -1,10 +1,8 @@
 Name : surya prakasam
-company : CODTECH IT SOLUTIONS 
-ID : CT08DS7314
+company : INTERNPE
 Domain : UI/UX 
 Project Overview: Food App UI/UX Design
-Project Title:
-Food App UI/UX Design
+Project Title: Food App UI/UX Design
 
 Project Objective:
 To design a user-friendly and visually appealing food app that enhances the overall dining experience by offering an intuitive interface, seamless functionality, and engaging user interactions.
